@@ -1,5 +1,3 @@
-# Qapp
-
 # code-quiz-challenge
 The purpose of this challenge was to build upon our foundational knowledge of JavaScript by applying Web APIs that enable the dynamic generation of HTML and CSS. We were introduced to the concept of the DOM and had to figure out how to use DOM properties in order to create a Code Quiz that shows questions one at a time. The implementation of a timer was a great way to test our understanding of JavaScript elements and how they interact. In the end, we saved our quiz score with Local Storage, another useful tool when handling a browser that receives information. 
 
